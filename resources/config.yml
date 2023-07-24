@@ -1,0 +1,16 @@
+# --------------------------  #
+# AntiVoid configuration file #
+# --------------------------- #
+
+# Tip: Use ' § ' for color change
+
+# Add a Message in title so that it is displayed when falling into the void
+title-text: "you fell into the void"
+
+# Add a Message in subtitle so that it is displayed when falling into the void
+subtitle-text: "Be careful next time"
+
+# Add the worlds where these will be valid where fall damage does not count
+worlds:
+  - world
+  - lobby
