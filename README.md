@@ -1,7 +1,7 @@
 # AntiVoid
 Avoid falls by Void, choosing the worlds where this action is applied and send a title and subtitle when avoiding the fall
 
-# Permissions
+# config
 ```YAML
 
 title-text: "you fell into the void"
